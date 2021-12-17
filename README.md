@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ruslan
+- 👀 I’m interested in Android dev
+- 🌱 I’m currently learning Java. Kotlin
+- 📫 How to reach me mjoruslan@gmail.com

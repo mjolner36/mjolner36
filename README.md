@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ruslan
-- 👀 I’m interested in Android dev and GameDev(Unity)
+- 👀 I’m interested in Android dev and GameDev(Unity, Unreal Engine)
 - 🌱 I’m currently learning Java. Kotlin
 - 📫 How to reach me mjoruslan@gmail.com
